@@ -1,17 +1,17 @@
 # Ideen
 - Roller-Ding
 - Wetter-Kleidung-Widget
-- Straßen-Zeichnen-Tool
 - Leanders OpenMap-Ding
-- Friedemanns anderes Spiel
 - Godot Musikspieler
+- WG-Planer
+- Kleinanzeigen für Dienstleistungen (Was gibt es da schon?)
 
 # Organisatorisches
 > Gruppenmitglieder:
 Benjamin,
-Freidemann,
+Friedemann,
 Leander,
-<???>
+Sofyan
 
 > Deadline: Vorzeigen der Idee am 8.6.
 
@@ -38,3 +38,10 @@ Irgendwie sowas sollte man natürlich nutzen:
 - SUS
 - Card Sorting
 - Heuristische Evaluation
+
+### Aufgaben
+
+2 Personas erstellen per Hand
+2 Personas mit KI
+
+
